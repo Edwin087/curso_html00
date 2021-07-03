@@ -1,3 +1,3 @@
 # Html
 
-Init repository with html
+Init repository with html, tutorial: practice
